@@ -1,0 +1,31 @@
+.calculator {
+    margin: 10px 100px;
+    padding: 20px;
+    background-color: black;
+    color: white;
+}
+
+input {
+    font-size: 2em;
+    color: red;
+}
+
+.radio-buttons {
+    margin: 20px 10px;
+}
+
+button {
+    font-size: 2em;
+    color: red;
+}
+
+input#sum {
+    margin: 10px;
+}
+
+footer {
+    background-color: white;
+    color: black;
+    margin: 0px auto;
+    padding: 30px;
+}
